@@ -7,10 +7,10 @@ the corridors of time, sung in many a ballad within the walls of the **Gilded Ro
 relic, the **Spellbook of Refactoring**. This spellbook, imbued with the raw essence of the algorithm, holds the power
 to unlock unparalleled mastery over code, a treasure beyond gold for those who dare to seek it.
 
-Legend tells that the spellbook lies at the heart of the **Library of the Moon**, a maze so cunningly crafted that it
-shifts and changes like the wind. Walls move, floors rotate, and what once was a passage may become a dead end in the
-blink of an eye. It was designed by a forgotten race, their knowledge of backbone and marionette unmatched, to protect
-the spellbook from falling into unworthy hands.
+Legend tells that the spellbook is hidden in the **Library of the Moon**, a maze so cunningly crafted that it shifts and
+changes like the wind. Walls move, floors rotate, and what once was a passage may become a dead end in the blink of an
+eye. It was designed by a forgotten race, their knowledge of backbone and marionette unmatched, to protect the spellbook
+from falling into unworthy hands.
 
 ![Library of the Moon](./images/library-of-the-moon.png)
 
