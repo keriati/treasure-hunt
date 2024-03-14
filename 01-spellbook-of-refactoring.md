@@ -2,11 +2,10 @@
 
 ![Spellbook of Refactoring](images/spellbook-of-refactoring.png)
 
-In the shadowed world of Azeroth, beyond the well-trodden paths of adventurers and heroes, lies a secret that has been
-whispered through the ages among the most erudite mages of the Kirin Tor. It speaks of an ancient relic, the **Spellbook
-of Refactoring**, buried deep beneath the ruins of the **legendary Gilded Rose Inn**. This spellbook, imbued with the
-raw essence of the algorithm, holds the power to unlock unparalleled mastery over code, a treasure beyond gold for those
-who dare to seek it.
+In the shadowed world of Azeroth, beyond the well-trodden paths of adventurers and heroes, a legend resonates through
+the corridors of time, sung in many a ballad within the walls of the **Gilded Rose Inn**. The verses speak of an ancient
+relic, the **Spellbook of Refactoring**. This spellbook, imbued with the raw essence of the algorithm, holds the power
+to unlock unparalleled mastery over code, a treasure beyond gold for those who dare to seek it.
 
 Legend tells that the spellbook lies at the heart of the **Library of the Moon**, a maze so cunningly crafted that it
 shifts and changes like the wind. Walls move, floors rotate, and what once was a passage may become a dead end in the
@@ -29,8 +28,8 @@ of the **Library of the Moon**. The air is thick with magic, the ancient stones 
 entrance before you is a gaping maw in the earth, steps leading down into darkness. With a deep breath, you and your
 fellows step forward, the light from your **I**ridescent **D**usk **E**lixir cutting through the shadows.
 
-Your task is clear: navigate the ever-changing corridors of the library, overcome its tricks and traps, and **find the
-Spellbook of Refactoring**.
+Your task is clear: navigate the ever-changing corridors of the library, overcome its tricks and guardians, and **find
+the Spellbook of Refactoring**.
 
 So begins your journey into the **Library of the Moon**, a journey not just of physical endurance but of mental acuity.
 Each step takes you deeper into the heart of the maze, where magic and logic intertwine. Remember, the walls may shift,
