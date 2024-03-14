@@ -17,15 +17,16 @@ calmness and curiosity, its form constantly shifting, a mesmerizing dance of lig
 far and proven yourself worthy. But the path ahead is fraught with complexity beyond mere knowledge or bravery. To reach
 the Spellbook of Refactoring, you must demonstrate wisdom and insight."
 
-From its form, the **Chrono-Librarian** produces a [map](resources/maze.txt), intricate and detailed, glowing softly with an inner light. "
-This map," it continues, "represents the library that lies before you. But beware, for the library is ever-changing, a
-puzzle that shifts with the sands of time. Only by finding the shortest path will you reach the spellbook and, with it,
-a way back to the world you know."
+From its form, the **Chrono-Librarian** produces a [map](resources/maze.txt), intricate and detailed, glowing softly
+with an inner light. "This map," it continues, "represents the library that lies before you. But beware, for the
+library is ever-changing, a puzzle that shifts with the sands of time. Only by finding the shortest path will you reach
+the spellbook and, with it, a way back to the world you know."
 
 With a gesture of farewell, the **Chrono-Librarian** fades away, leaving you alone with the map. The task is clear:
 using the map, you must determine the shortest path through the library to the **Spellbook of Refactoring**. The journey
 will require all your skills in algorithms, for a wrong turn could lead you astray, lost in the maze forever.
 
-**Mark the shortest path from "A" to "B" on the [map](resources/maze.txt) with red X characters to pass this challenge!**
+**Mark the shortest path from "A" to "B" on the [map](resources/maze.txt) with red X characters to pass this
+challenge.**
 
 [Continue your journey](04-quantum-arcanites.md)

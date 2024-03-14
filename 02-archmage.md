@@ -30,4 +30,6 @@ The Archmage falls silent, its gaze piercing. The crystals’ glow seems to puls
 ponder the answers. Your journey through the code has prepared you for this moment, and with confidence, you begin to
 respond, knowing that each answer brings you one step closer to the **Spellbook of Refactoring**.
 
+**Write your answers on a piece of paper and hand the paper to the Archmage to pass this challenge.**
+
 [Continue down the path](03-arcanis.md)
