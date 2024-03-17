@@ -30,7 +30,7 @@ The realization hits you; in 5 seconds, the number of creatures will be 10 as th
 offspring. You also calculate that in the 10th second from now there will be 16 creatures, and in the 20th second from
 now there will be 36 creatures.
 
-The library, vast as it is, can only contain up to 18 billion of these creatures before becoming completely impassable
+The library, vast as it is, can only contain up to 19 billion of these creatures before becoming completely impassable
 (according to your estimates).
 
 With the knowledge of their multiplication pattern and the current count in hand, you begin to calculate how long you
