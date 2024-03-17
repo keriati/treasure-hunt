@@ -13,22 +13,22 @@ final mystery. **Q**uantum **A**rcanites, tiny glowing creatures, awakened by th
 room with their luminescence. Observing their behavior, you quickly discern a pattern to their multiplication, a key
 that will determine your fate and the urgency of your escape.
 
-These creatures, after appearing, spend the first 3 seconds in a state of curiosity, exploring their immediate
+These creatures, after appearing, spend the first **3 seconds** in a state of curiosity, exploring their immediate
 surroundings with an innocent wonder. But once these initial 3 seconds pass, each creature begins to spawn a new
-companion every 7 seconds, a cycle of birth that each of their offspring continues after their own 3-second period of
+companion every **7 seconds**, a cycle of birth that each of their offspring continues after their own 3-second period of
 acclimatization.
 
 With 8 of these creatures currently illuminating the chamber, their numbers are:
 
-- 2 creatures that appeared 6 seconds ago
-- 2 creatures that emerged 5 seconds ago
-- 1 creature that materialized 4 seconds ago
-- 1 creature that appeared 3 seconds ago
-- 2 creatures that burst into existence merely 1 second ago
+- 2 creatures that appeared 5 seconds ago
+- 2 creatures that emerged 4 seconds ago
+- 1 creature that materialized 3 seconds ago
+- 1 creature that appeared 2 seconds ago
+- 2 creatures that burst into existence just now
 
-The realization hits you; in just 4 seconds (in the 5th second from now), the number of creatures will increase from 8
-to 10 as the oldest among them spawn their first offspring. You also calculate that in the 10th second from now there 
-will be 16 creatures, and in the 20th second from now there will be 36 creatures.
+The realization hits you; in 5 seconds, the number of creatures will be 10 as the oldest among them spawn their first
+offspring. You also calculate that in the 10th second from now there will be 16 creatures, and in the 20th second from
+now there will be 36 creatures.
 
 The library, vast as it is, can only contain up to 18 billion of these creatures before becoming completely impassable
 (according to your estimates).
