@@ -1,8 +1,8 @@
 ## The Archmage of Code
 
 As you descend into the dimly lit corridors of the **Library of the Moon**, the air grows cold, and a sense of
-anticipation fills your bones. The winding path leads you to a vast cavern, illuminated by crystals pulsating with
-arcane energy. In the center of the cavern stands a guardian, a creature of legend and magic: **The Archmage of Code,
+anticipation fills your bones. The winding path leads you to a vast corridor, illuminated by crystals pulsating with
+arcane energy. In the center of the corridor stands a guardian, a creature of legend and magic: **The Archmage of Code,
 Keeper of the Ancient Scripts**, its silver hair shimmering with the colors of the spellbound crystals surrounding it.
 
 ![Archmage](images/archmage.png)
