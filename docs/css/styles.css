@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Lugrasimo&family=Marck+Script&display=swap');
+@import 'normalize.css';
+
+:root {
+    --base-color: #292c33;
+    --background-position: center;
+    --background-size: cover;
+}
+
+html, body {
+    overscroll-behavior: none;
+}
+
+body {
+    font-family: "Marck Script", cursive;
+    margin: 0;
+}
+
+body[data-background-spellbook] {
+    --background-image: url(../images/spellbook.jpg);
+}
+
+body[data-background-archmage] {
+    --background-image: url(../images/archmage.jpg);
+}
+
+body[data-background-arcanis] {
+    --background-image: url(../images/arcanis.jpg);
+}
+
+body[data-background-arcanites] {
+    --background-image: url(../images/arcanites.jpg);
+}
+
+body[data-background-beer] {
+    --background-image: url(../images/beer.jpg);
+}
+
+header, h1 {
+    font-family: "Lugrasimo", cursive;
+}
+
+header {
+    font-weight: 900;
+    height: 100vh;
+    background-color: var(--base-color);
+}
+
+.title-wrapper {
+    position: fixed;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    padding: 0 2rem;
+
+    font-size: 4rem;
+    text-align: center;
+    text-transform: uppercase;
+
+    background-image: var(--background-image);
+    background-position: var(--background-position);
+    background-size: var(--background-size);
+
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+main {
+    position: relative;
+    padding-top: 100vh;
+
+    background-image: var(--background-image);
+    background-position: var(--background-position);
+    background-size: var(--background-size);
+    background-attachment: fixed;
+
+    z-index: 1;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 1200px;
+    height: 960px;
+    padding: 12rem 5rem;
+    margin: auto;
+    box-sizing: border-box;
+
+    background-image: url('../images/scroll.png');
+    background-size: cover;
+
+    font-size: 1.125rem;
+}
+
+h1 {
+    position: relative;
+    top: 6.5rem;
+    margin: 0;
+
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+p {
+    margin: 0;
+    line-height: 1;
+}
+
+ol, ul {
+    margin: 0;
+}
+
+ol li + li {
+    margin-top: 0.5rem;
+}
+
+@media screen and (max-width: 1199px) {
+    .content {
+        width: auto;
+        height: auto;
+        padding: 9rem 2rem 2rem;
+        background-image: url('parchment.jpg');
+    }
+
+    h1 {
+        padding: 0 2rem;
+    }
+
+    p, ol, ul {
+        margin-bottom: 1rem;
+    }
+}
